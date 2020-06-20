@@ -1,0 +1,10 @@
+---
+title: First post
+author: Leen Sonneveld
+date: '2020-06-20'
+slug: first-post
+categories:
+  - R
+tags: []
+---
+Simone is chagerijnig
